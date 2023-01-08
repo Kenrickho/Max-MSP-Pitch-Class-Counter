@@ -1,1 +1,1 @@
-# Max-MSP-Pitch-Class-Counter
+# MIDI Pitch-Class-Counter
